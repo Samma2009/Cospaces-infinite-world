@@ -1,3 +1,3 @@
 # Cospaces-infinite-world
 
-this code nakes the world infinite
+this code makes the world infinite
